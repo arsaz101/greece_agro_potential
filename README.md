@@ -1,7 +1,6 @@
 # Optimal Agrivoltaic Locations in Greece
 
-```markdown
-![Different regions of Greece](output.png)
+<img src="output.png" alt="Different regions of Greece" width="200" height="100">
 
 ## Project Description
 
@@ -86,4 +85,7 @@ This project requires the following geospatial data:
 - **Slope and Elevation:**
   - Analysis of slope using the slope TIFF file to exclude areas with extreme slopes.
   - Analysis of elevation using EuroDEM tiff file to exclude areas with extreme elevation.
+
+```
+
 ```
