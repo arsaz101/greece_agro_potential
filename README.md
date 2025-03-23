@@ -1,5 +1,8 @@
 # Optimal Agrivoltaic Locations in Greece
 
+```markdown
+![Different regions of Greece](output.png)
+
 ## Project Description
 
 This project aims to identify optimal locations in Greece for agrivoltaic systems by conducting a comprehensive analysis of geopolitical and environmental factors. The goal is to maximize the effectiveness of land use for both agriculture and solar energy generation, while considering policy constraints, energy infrastructure, and local economic conditions.
@@ -83,3 +86,4 @@ This project requires the following geospatial data:
 - **Slope and Elevation:**
   - Analysis of slope using the slope TIFF file to exclude areas with extreme slopes.
   - Analysis of elevation using EuroDEM tiff file to exclude areas with extreme elevation.
+```
