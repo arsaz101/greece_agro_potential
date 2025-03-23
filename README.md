@@ -1,6 +1,6 @@
 # Optimal Agrivoltaic Locations in Greece
 
-<img src="output.png" alt="Different regions of Greece" width="200" height="100">
+<img src="output.png" alt="Different regions of Greece">
 
 ## Project Description
 
