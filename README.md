@@ -85,7 +85,3 @@ This project requires the following geospatial data:
 - **Slope and Elevation:**
   - Analysis of slope using the slope TIFF file to exclude areas with extreme slopes.
   - Analysis of elevation using EuroDEM tiff file to exclude areas with extreme elevation.
-
-```
-
-```
